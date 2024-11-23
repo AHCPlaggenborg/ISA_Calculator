@@ -1,2 +1,2 @@
 # ISA_Calculator
-ISA Calculator using math import
+ISA Calculator using math import: simply run main.py and fill in your desired altitude in [m], [ft], or [FL] to receive back not only the air temperature in [K] and degrees [C], but also the air pressure and density, including as compared to their values at sea-level.
